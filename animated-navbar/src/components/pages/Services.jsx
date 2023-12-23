@@ -2,8 +2,8 @@ import React from 'react'
 
 const Services = () => {
   return (
-    <div>
-      <div>
+    <div style={{width: '80%', margin: 'auto'}}>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -14,7 +14,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -25,7 +25,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -36,7 +36,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -47,7 +47,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -58,7 +58,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -69,7 +69,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -80,7 +80,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -91,7 +91,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -102,7 +102,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -113,7 +113,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -124,7 +124,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -135,7 +135,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -146,7 +146,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -157,7 +157,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -168,7 +168,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -179,7 +179,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -190,7 +190,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
@@ -201,7 +201,7 @@ const Services = () => {
         debitis temporibus numquam adipisci ex aut.
       </div>
       <br />
-      <div>
+      <div style={{lineHeight: '1.3'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi ab iste error labore 
         est neque pariatur deserunt placeat velit a quas tempora, atque explicabo beatae minima iure 
         saepe architecto impedit officiis laudantium voluptatum corporis quo consectetur! Ipsum voluptate 
